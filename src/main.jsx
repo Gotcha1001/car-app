@@ -12,6 +12,7 @@ import { Toaster } from 'sonner'
 import SearchByCategory from './search/[category]/index.jsx'
 import SearchByOptions from '../src/search/index.jsx'
 import LisingDetail from './listing-details/[id]/index.jsx'
+import SignInPage from './components/SignInPage.jsx'
 
 
 
