@@ -34,7 +34,7 @@ const router = createBrowserRouter([
   },
   {
     path: '/sign-in',
-    element: <SignIn routing="path" path="/sign-in" />,
+    element: <SignInPage />
   },
   {
     path: '/search/:category',
