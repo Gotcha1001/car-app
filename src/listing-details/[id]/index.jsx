@@ -208,7 +208,7 @@ import Description from "./components/Description";
 import Features from "./components/Features";
 import Pricing from "./components/Pricing";
 import Specification from "./components/Specification";
-import OwnersDetail from "./components/ownersDetail";
+import OwnersDetail from "./components/OwnersDetail";
 import FinancialCalculator from "./components/FinancialCalculator";
 import MostSearchedCar from "@/components/MostSearchedCar";
 import Service from "@/Shared/Service";
