@@ -9,7 +9,7 @@ function SignInPage() {
                 <img src="/logo.jpg" alt="Logo" width={150} height={150} className="rounded-lg" />
             </div>
             <SignIn
-                routing="path"
+                routing="hash"
                 path="/sign-in"
                 afterSignInUrl="/profile"
                 signUpUrl="/sign-up" // Optional: if you have a sign-up route
