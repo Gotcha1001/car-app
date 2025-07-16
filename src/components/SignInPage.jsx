@@ -10,7 +10,7 @@ function SignInPage() {
             </div>
             <SignIn
                 routing="hash"
-                path="/sign-in"
+
                 afterSignInUrl="/profile"
                 signUpUrl="/sign-up" // Optional: if you have a sign-up route
             />

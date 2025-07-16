@@ -34,7 +34,7 @@ const router = createBrowserRouter([
     element: <AddListing />
   },
   {
-    path: '/sign-in',
+    path: '/sign-in/*',  // Note the /* to catch all sub-routes
     element: <SignInPage />
   },
   {
